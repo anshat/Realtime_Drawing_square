@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://media4.giphy.com/media/l378b9LcC3cclsY2A/200.gif");
+    background-position: 100%;
+    background-size: cover; 
+}
+h2{
+    font-family: 'Freckle Face', cursive;
+}
+.heading{
+    box-shadow: 5px 5px 25px white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+}
+.span_note{
+font-size: 18px;
+color: rgb(218, 32, 103);
+}
+.copy_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color: #000;
+    width: 100%;
+    line-height: 2;
+    box-shadow: 5px 5px 20px white;
+}
+canvas{
+    border: 5px dashed rgb(218, 32, 103);
+    border-radius: 20px;
+    box-shadow: 3px 3px 35px rgb(218, 32, 103);
+    margin-top: 25px;
+}
